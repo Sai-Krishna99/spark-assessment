@@ -1,0 +1,5 @@
+#ignore data and logs
+data/*
+logs/*
+#ignore notebook files from src
+src/*.ipynb
