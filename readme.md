@@ -19,6 +19,7 @@ docker-compose up
 
 ### Step 4 Open the outputs of the questions will be saved under logs directory under the name ```final_analysis.log```
 
+### Also check the notebooks within the ```src`` for more details
 
 #### Directory structure:
 
